@@ -186,7 +186,6 @@ ol {
   display: flex;
   gap: 40px;
   align-items: flex-start;
-  padding-bottom: 4px;
 }
 
 .search-form__fieldset {
