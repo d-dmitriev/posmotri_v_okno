@@ -190,7 +190,7 @@ ol {
 .search-form {
   display: flex;
   gap: 40px;
-  align-items: end;
+  align-items: flex-start;
 }
 
 .search-form__fieldset {
@@ -279,7 +279,7 @@ ol {
   justify-content: center;
   align-items: center;
   gap: 10px;
-  flex-shrink: 0;
+  align-self: flex-end;
 }
 
 .more-button {
