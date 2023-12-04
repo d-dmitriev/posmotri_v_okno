@@ -98,6 +98,7 @@ ol {
   height: 100%;
   display: flex;
   flex-direction: column;
+  justify-content: flex-end;
   gap: 26px;
   overflow: hidden;
 }
@@ -116,6 +117,7 @@ ol {
 
 .content__list {
   position: relative;
+  height: 298px;
   display: flex;
   flex-direction: column;
   gap: 30px;
