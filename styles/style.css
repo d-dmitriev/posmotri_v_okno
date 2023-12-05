@@ -275,9 +275,9 @@ input {
   text-transform: uppercase;
   margin-bottom: 6px;
   max-width: 200px;
-  overflow: hidden;
+  /* overflow: hidden;
   white-space: nowrap;
-  text-overflow: ellipsis;
+  text-overflow: ellipsis; */
 }
 
 .content__video-card-description {
